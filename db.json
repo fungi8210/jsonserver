@@ -1,43 +1,14 @@
 {
-    "data": [
-        {
-            "_id": "Sdxh-E4Cr",
-            "prev": "",
-            "name": "Taichung",
-            "type": 1,
-            "status": 1,
-            "ownerId": "yqqGgMfAa",
-            "createdAt": 1550631449462,
-            "updatedAt": 1550631449462,
-            "isMaster": 0,
-            "description": [
-                "",
-                ""
-            ],
-            "shareUrl": "https://pebblar.com/trip/Sdxh-E4Cr",
-            "isEditable": true,
-            "isPaid": false
-        },
-        {
-            "_id": "nVR68YoIg",
-            "prev": "",
-            "name": "Sydney Road Trip",
-            "type": 1,
-            "status": 1,
-            "ownerId": "yqqGgMfAa",
-            "createdAt": 1549782678494,
-            "updatedAt": 1549782678494,
-            "isMaster": 0,
-            "description": [
-                "Taipei City - Sydney Airport (SYD) - North Rocks - Sydney - Taipei City",
-                "15-19 Feb 2019 (5 Days)"
-            ],
-            "shareUrl": "https://pebblar.com/trip/nVR68YoIg",
-            "isEditable": true,
-            "isPaid": false
-        }
-    ],
-    "total": 2,
-    "masterTotal": 12,
-    "skip": 0
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
