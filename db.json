@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "_id": "Sdxh-E4Cr",
+            "id": "Sdxh-E4Cr",
             "prev": "",
             "name": "Taichung",
             "type": 1,
@@ -19,7 +19,7 @@
             "isPaid": false
         },
         {
-            "_id": "nVR68YoIg",
+            "id": "nVR68YoIg",
             "prev": "",
             "name": "Sydney Road Trip",
             "type": 1,
